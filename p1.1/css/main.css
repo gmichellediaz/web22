@@ -1,0 +1,22 @@
+body{
+  background-color: #E1EEDD;
+  color: #183A1D;
+  text-align: left;
+  margin-left: 150px;
+  margin-right:150px;
+  margin-top:50px;
+}
+h1{
+  font-family: avenir;
+  font-size: 40px;
+  text-align: center;
+}
+p{
+  font-family: avenir;
+  text-align: left;
+}
+h2{
+  font-family: avenir;
+  font-size: 20px;
+  text-align: left;
+}
