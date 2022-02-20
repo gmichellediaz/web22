@@ -1,13 +1,13 @@
 body {
-  background-color: crimson;
+  background-color:  #F9B5AC;
   margin: 0;
   font-size: 32px;
-  font-family: 'Noto Serif Display', serif;
+  font-family: 'Open Sans', sans-serif;
 }
 p {
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: pink;
+  color: #EE7674;
   font-weight: bold;
   text-align: center;
   line-height: .1em;
@@ -25,10 +25,11 @@ div {
 
 @media only screen and (max-width: 768px) {
   body {
-    background-color: pink;
+    background-color: #EE7674;
   }
   p {
-    color: crimson;
+    color: #F9B5AC;
+    font-family: 'Rock 3D', serif;
   }
   .mobile-only {
     display: block;
@@ -37,18 +38,3 @@ div {
     display: none;
   }
 }
-
-/* @media only screen and (min-width: 768px) {
-  body {
-    background-color: pink;
-  }
-  p {
-    color: crimson;
-  }
-  .mobile-only {
-    display: block;
-  }
-  .desktop-only {
-    display: none;
-  }
-} */
