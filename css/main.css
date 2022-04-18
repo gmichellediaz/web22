@@ -1,7 +1,7 @@
 body {
-  background-color: #AFBECD;
+  background-color: #B7B7A4;
   font-family: 'Open Sans', sans-serif;
-  color: #8793A0;
+  color: #6B705C;
 }
 header {
   width: 75vw;
@@ -21,14 +21,14 @@ h1 {
   font-size: 47px;
 }
 h2 {
-  color: #8793A0;
+  color: #6B705C;
 }
 a {
   color: white;
   text-decoration: none;
 }
 a:hover {
-  color: #8E9CAA;
+  color: #6B705C;
   text-decoration: none;
 }
 li {
